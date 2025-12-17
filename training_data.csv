@@ -643,3 +643,4 @@ InstitutionName CampusName State UndergraduateEnrollment GraduateEnrollment Tuit
 UniversityState UniversityName InstitutionalControl GraduationRate LoanDebt AvgIncome25Yr,education
 InstitutionID Name Region AcceptanceRate YieldRate GraduationRate SubsidizedLoanPercent,education
 DistrictID Name TotalStudents FreeLunchRate AttendanceRate GraduationRate ChronicAbsenteeismRate,education
+
